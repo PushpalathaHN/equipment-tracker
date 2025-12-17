@@ -35,4 +35,6 @@ cd equipment-tracker
 
 ## 📸 Dashboard Preview
 
-![Equipment Tracker Dashboard]()
+![Equipment Tracker Dashboard](C:\Users\pushp\Downloads\equipment-tracker\screenshots\Imag2.png)
+(C:\Users\pushp\Downloads\equipment-tracker\screenshots\image.png)
+(C:\Users\pushp\Downloads\equipment-tracker\screenshots\image3.png)
