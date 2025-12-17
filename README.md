@@ -31,3 +31,8 @@ A full-stack web application to manage and track equipment details.
 ```bash
 git clone https://github.com/PushpalathaHN/equipment-tracker.git
 cd equipment-tracker
+
+
+## 📸 Dashboard Preview
+
+![Equipment Tracker Dashboard]()
