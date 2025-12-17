@@ -33,8 +33,15 @@ git clone https://github.com/PushpalathaHN/equipment-tracker.git
 cd equipment-tracker
 
 
+
 ## 📸 Dashboard Preview
 
-![Equipment Tracker Dashboard](C:\Users\pushp\Downloads\equipment-tracker\screenshots\Imag2.png)
-(C:\Users\pushp\Downloads\equipment-tracker\screenshots\image.png)
-(C:\Users\pushp\Downloads\equipment-tracker\screenshots\image3.png)
+### Desktop View
+![Desktop](screenshots/image.png)
+
+### Mobile View
+![Mobile](screenshots/image2.png)
+
+### Table View
+![Table](screenshots/image3.png)
+
